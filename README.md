@@ -12,7 +12,7 @@ Paste a screenshot of any math formula and get **MathML or LaTeX** output ready 
 - 🔁 **Toggle MathML / LaTeX** output on the fly
 - ⚡ **Auto-copy** — result is copied to clipboard immediately after recognition
 - 🔌 **Fully offline** after first model download
-- 🖥️ Works on **Windows and macOS**
+- 🥰 Works on **Windows and macOS**
 
 ---
 
@@ -62,4 +62,5 @@ python3 formula_ocr.py   # macOS
 ---
 ## Contact me if you need some help
 - [Email](flyawaypencil480@gmail.com) for Jekyll Chan
+- [LinkedIn](www.linkedin.com/in/jekyllchan) for Jekyll Chan
 
