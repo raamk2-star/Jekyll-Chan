@@ -1,5 +1,6 @@
 # Formula OCR → MathML / LaTeX
 
+An error occured due to a modification from pytorch security since ver. 2.6! I'm trying to fix it since ... well, I'm also using it to finish homeworks 🤣
 Paste a screenshot of any math formula and get **MathML or LaTeX** output ready to paste directly into Microsoft Word or PowerPoint.
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue) ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-lightgrey) ![Offline](https://img.shields.io/badge/Runs-Offline-green)
