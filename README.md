@@ -53,6 +53,21 @@ python3 formula_ocr.py   # macOS
 
 ---
 
+## Troubleshooting: Model Weights
+
+If the automatic download fails (e.g. unstable connection), manually download the checkpoint files from the official [LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) release by **Lukas Blecher**:
+
+- [`weights.pth`](https://github.com/lukas-blecher/LaTeX-OCR/releases/download/v0.0.1/weights.pth)
+- [`image_resizer.pth`](https://github.com/lukas-blecher/LaTeX-OCR/releases/download/v0.0.1/image_resizer.pth)
+
+Place both files in:
+<pix2tex package dir>/model/checkpoints/
+e.g. on Windows: `C:\Users\<user>\AppData\Roaming\Python\<pyver>\site-packages\pix2tex\model\checkpoints\`
+
+> Model weights are © Lukas Blecher, distributed with [LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) under its original license.
+
+---
+
 ## Notes
 
 - **macOS** requires Screen Recording permission for Terminal (`System Settings → Privacy & Security → Screen Recording`)
